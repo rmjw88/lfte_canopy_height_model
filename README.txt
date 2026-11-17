@@ -1,4 +1,4 @@
-An Improved Canopy Height Model in the Latitudinal Forest-Tundra Ecotone Based upon the Integration of Satellite Imagery with Regional Airborne Laser Scanning and Ground Height Data
+Latitudinal Forest-Tundra Ecotone Canopy Height: Advancements in Regional Modelling from Optical Satellite Imagery and Comparison to Global Products
 
 Jack S. Marchant, Daniel N.M. Donoghue, Robert Baxter, Sophia T. Cunningham, Laura Turnbull-Lloyd, Alistair S. Jump
 
